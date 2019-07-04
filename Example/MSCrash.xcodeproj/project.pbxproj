@@ -66,7 +66,7 @@
 		B6935905157CD0EF1D9E6AB7 /* Pods-MSCrash_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MSCrash_Tests.release.xcconfig"; path = "Target Support Files/Pods-MSCrash_Tests/Pods-MSCrash_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		CD6EF8023F61B82A5EA47E3B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		DBB602A57CE87776853479CA /* Pods-MSCrash_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MSCrash_Example.release.xcconfig"; path = "Target Support Files/Pods-MSCrash_Example/Pods-MSCrash_Example.release.xcconfig"; sourceTree = "<group>"; };
-		F26A03E68AE86FDF98FE42B5 /* MSCrash.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MSCrash.podspec; path = ../MSCrash.podspec; sourceTree = "<group>"; };
+		F26A03E68AE86FDF98FE42B5 /* MSCrash.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MSCrash.podspec; path = ../MSCrash.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
