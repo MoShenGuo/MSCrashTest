@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "MSCrash.h"
 
 FOUNDATION_EXPORT double MSCrashVersionNumber;
 FOUNDATION_EXPORT const unsigned char MSCrashVersionString[];
