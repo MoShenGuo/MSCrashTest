@@ -21,16 +21,16 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/MoShenGuo/MSCrash'
+  s.homepage         = 'https://github.com/MoShenGuo/MSCrashTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'MoShenGuo' => 'guoxl1@yunjiglobal.com' }
-  s.source           = { :git => 'https://github.com/MoShenGuo/MSCrash.git', :tag => s.version.to_s }
+  s.author           = { 'MoShenGuo' => '952777914@qq.com' }
+  s.source           = { :git => 'https://github.com/MoShenGuo/MSCrashTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'MSCrash/Classes/**/*'
+ s.source_files = 'MSCrash/Classes/**/*{h,m}'
   
   # s.resource_bundles = {
   #   'MSCrash' => ['MSCrash/Assets/*.png']
